@@ -27,6 +27,16 @@ The system is built to run entirely locally, making it suitable for privacy-sens
 - Structured information collection
 - Clean and modular codebase
 
+
+### How it Works
+
+```markdown
+## How it Works
+
+1. The system loads a carefully designed system prompt that defines the assistant’s role.
+2. User messages are appended to a conversation history.
+3. The full history is sent to the model on every turn to maintain context.
+4. The assistant guides the conversation toward collecting structured intake information.
 ## Tech Stack
 
 - Python 3.10+
@@ -41,3 +51,8 @@ psychological-intake-assistant/
 ├── system_prompt.txt
 ├── requirements.txt
 └── README.md
+
+## Disclaimer
+
+This project is developed for educational and research purposes only. 
+It is **not** a medical device and should not be used as a substitute for professional mental health care.
