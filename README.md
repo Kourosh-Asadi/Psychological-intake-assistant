@@ -19,13 +19,13 @@ This project demonstrates the application of large language models to a real-wor
 
 The system is built to run entirely locally, making it suitable for privacy-sensitive use cases.
 
-## Key Features
+## Features
 
-- Fully local inference (no external API dependency)
-- Persistent conversation history
+- Multi-turn conversation management
 - Domain-specific system prompt for psychological intake
-- Modular and readable codebase
-- Easy to adapt to different GGUF models
+- Fully local inference support
+- Structured information collection
+- Clean and modular codebase
 
 ## Tech Stack
 
