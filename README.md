@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Groq](https://img.shields.io/badge/Groq-LLM_API-FF4B00)](https://groq.com/)
 [![llama-cpp-python](https://img.shields.io/badge/llama--cpp--python-Local_Inference-green)](https://github.com/abetlen/llama-cpp-python)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A local LLM-based conversational system designed to conduct structured psychological intake interviews. The assistant collects relevant background information, explores the user's main concerns, and prepares a structured summary that can later support therapist matching.
 
