@@ -19,13 +19,13 @@ This project demonstrates the application of large language models to a real-wor
 
 The system is built to run entirely locally, making it suitable for privacy-sensitive use cases.
 
-## Features
+## Key Features
 
-- Multi-turn conversation management
+- Fully local inference (no external API dependency)
+- Persistent conversation history
 - Domain-specific system prompt for psychological intake
-- Fully local inference support
-- Structured information collection
-- Clean and modular codebase
+- Modular and readable codebase
+- Easy to adapt to different GGUF models
 
 ## Tech Stack
 
@@ -41,8 +41,3 @@ psychological-intake-assistant/
 ├── system_prompt.txt
 ├── requirements.txt
 └── README.md
-
-## Disclaimer
-
-This project is developed for educational and research purposes only. 
-It is **not** a medical device and should not be used as a substitute for professional mental health care.
