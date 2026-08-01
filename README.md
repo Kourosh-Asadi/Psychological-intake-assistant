@@ -28,7 +28,7 @@ The system is built to run entirely locally, making it suitable for privacy-sens
 - Clean and modular codebase
 
 
-### How it Works
+###  How it Works
 
 ```markdown
 ## How it Works
